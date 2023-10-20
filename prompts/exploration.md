@@ -11,4 +11,4 @@ Take a deep breath and think about this step by step, go through this short text
 
 ### Example usecase
 Take a deep breath and think about this step by step, go through this short text to analyze, understand and interpret the meaning behind it. then expand on any ideas that the text is connected to and provide a detailed explanation and knowledge expansion. The note is :  
-"AI Agent problem solving loop, A* algorithm for problem solving. Search through conceptual decision space space using language and multi-modal AI models. Path search through decision space to solution"
+"AI Agent problem solving loop, A* algorithm for problem solving. Search through conceptual decision space using language and multi-modal AI models. Path search through decision space to solution"
